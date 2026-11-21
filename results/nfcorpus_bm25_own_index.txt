@@ -1,0 +1,2 @@
+recall_100            	all	0.2457
+ndcg_cut_10           	all	0.3218

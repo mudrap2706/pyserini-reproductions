@@ -1,0 +1,7 @@
+Running command: ['/opt/anaconda3/envs/pyserini/bin/python', '/Users/mudra/pyserini/pyserini/eval/msmarco_passage_eval_raw.py', '/Users/mudra/.cache/pyserini/qrels/qrels.msmarco-passage.dev-subset.txt', 'runs/run.msmarco-passage.bm25tuned.txt']
+Results:
+#####################
+MRR @10: 0.18741227770955546
+QueriesRanked: 6980
+#####################
+

@@ -1,0 +1,2 @@
+map                   	all	0.1958
+recall_1000           	all	0.8573
